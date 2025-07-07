@@ -1,2 +1,2 @@
 # gb_case
-A architecture design of traditional wuziqi game
+A Open source and FREE architecture design of traditional wuziqi game. (Including Timing)
